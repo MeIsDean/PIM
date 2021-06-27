@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XIX",
+    "I#I",
+    "XIX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glowstone"
+    },
+    "X": {
+      "item": "minecraft:obsidian"
+    },
+    "I": {
+      "item": "pim:board"
+    }
+  },
+  "result": {
+    "item": "pim:manipulator"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XIX",
+    "I#I",
+    "XIX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "minecraft:emerald"
+    },
+    "I": {
+      "item": "minecraft:iron"
+    }
+  },
+  "result": {
+    "item": "pim:board"
+  }
+}
